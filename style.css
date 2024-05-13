@@ -1,0 +1,36 @@
+.navbar {
+    background-color: rgb(75, 139, 75);
+}
+
+.navbar-brand{
+    border-radius : 80%;
+}
+
+
+.carousel-item img{
+    height: 80vh;
+    width: 10%;
+    background-position: center;
+    background-size: cover;
+    filter: brightness(0.8) contrast(1.2);
+}
+
+.faq {
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+
+
+.faq .judul {
+    margin-left: 45px;
+}
+
+.faq .judul h1 {
+    font-weight: 700;
+}
+
+.effect {
+    margin-left: 27px;
+    margin-right: 40px;
+}
+
